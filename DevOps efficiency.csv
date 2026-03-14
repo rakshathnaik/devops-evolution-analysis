@@ -1,0 +1,7 @@
+Quarter,Phase,Deploys per Week,Lead Time (Hours),Change Failure Rate (%),MTTR (Hours)
+Q1 2024,Legacy (Unstructured),1,336 (2 wks),28,48
+Q2 2024,Initial CI (Jenkins),3,168 (1 wk),22,36
+Q3 2024,Automation Prep,10,72 (3 days),18,24
+Q4 2024,Product-Led Launch,45,12,8,4
+Q1 2025,Platform Maturity,120,2,3.5,1
+Q2 2025,Elite Status,250,0.5 (30m),1.5,0.3
