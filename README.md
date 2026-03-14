@@ -3,7 +3,7 @@ This project contains the data and visualization code used in the article.
 
 ## Project Structure
 - DevOps efficiency.csv: A reconstructed dataset based on the BT Case Study.
-- analysis_script.py: Python code using Matplotlib and Pandas to generate DORA metric graphs.
+- devOps.ipynb: Python code using Matplotlib and Pandas to generate DORA metric graphs.
 
 ## How to Reproduce
 1. Clone this repo.
